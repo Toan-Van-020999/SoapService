@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/model/Singer.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/model/FavoriteMusic.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/services/MusicService.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/FavoriteMusicDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/LoginDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/AlbumDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/JDBCConnection.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/model/Album.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/web/index.html</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/model/Music.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/model/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/MusicDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MyService/src/java/dao/SingerDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
